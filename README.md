@@ -1,0 +1,3 @@
+# CommonJsonUtil
+通用型JSON解析工具，一次创建永不修改，自动封装对应Bean
+通过反射自动匹配Bean进行封装的通用型JSON解析工具
